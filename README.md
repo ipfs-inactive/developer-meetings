@@ -5,7 +5,7 @@
 - **Location**: Berlin
 - [Apply to attend the IPFS Developer Meeting](https://goo.gl/forms/sVRjrW1CA61FTwl12)
 - Registration page - Soon™
-- Sister event: [**libp2p Meeting** 12-13 July](https://github.com/libp2p/developer-meetings)
+- Sister event: [**libp2p Developers Meeting** 12-13 July](https://github.com/libp2p/developer-meetings)
 
 ## Related Events:
 - **libp2p Meeting** 12-13 July in Berlin [apply to attend the libp2p Developer Meeting](https://goo.gl/forms/8YpFQ7D00s5gC3hw2)
