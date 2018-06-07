@@ -7,8 +7,7 @@
 - Registration page - Soon™
 - Sister event: [**libp2p Developers Meeting** 12-13 July](https://github.com/libp2p/developer-meetings)
 
-## Related Events:
-- **libp2p Meeting** 12-13 July in Berlin [apply to attend the libp2p Developer Meeting](https://goo.gl/forms/8YpFQ7D00s5gC3hw2)
+## Related Event
 - **IPFSConf** Lisbon November 2018 - [pre-register for IPFSConf in November](https://goo.gl/forms/0Pu6VZzG8pRAmrrv2)
 
 ## Proposing Sessions
