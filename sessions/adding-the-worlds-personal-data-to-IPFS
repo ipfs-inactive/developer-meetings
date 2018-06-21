@@ -1,0 +1,25 @@
+# Session: Adding the world's personal data to IPFS
+
+**Description:** We believe in personal data sovereignty. To get there, every individual in the world needs a secure, decentralized technology to store their personal data. Textile is working to build one solution to that challenge, the Textile wallet. Is this talk, we would like to talk about current work with IPFS to store and allow users to manage their personal data (starting with our current focus on Photos). Next, we would like to talk about the requirements of and impacts of moving new kinds of personal information (from location to medical records) into systems backed IPFS. 
+
+**Activity:** presentation with discussion, questions, feedback.
+
+**Goal(s):**
+- Share how Textile is planning to bring all forms of personal data to IPFS.
+- Present challenges and needs for developing personal data storage on IPFS (e.g. blacklisting, encryption, and connectivity).
+- Plan and build strategies for making IPFS a suitable home for the world's personal data.
+
+At the end of this session the participants will have: Learned how we are dealing with private personal data on IPFS as well as allowing individuals to permission and share that data with other users or services. Understood the scale and scope of personal data that needs a home in a decentralized future. Started a discussion of needs from IPFS technology to make that future possible. 
+
+**Duration:** 30 minutes
+
+**Participation:** IPFS developers, other IPFS application developers, Filecoin business dev
+
+---
+# Agenda
+
+- Introduction of how Textile works with IPFS today for both backup and sharing of personal photos.
+- Overview of the scope of personal data to be added to IPFS.
+- Projections on the growth of those data sources - input, storage, and retrieval.
+- Discuss needs from decentralized storage to make those data useful and valuable to users.
+- Open for discussion and feedback.
