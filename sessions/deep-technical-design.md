@@ -4,11 +4,11 @@ We aim to do a few of these during the meetings.
 
 [Original proposal and discussion at ipfs/conf#43](https://github.com/ipfs/conf/issues/43). 
 
-**Proposed by** @diasdavid  
-**Led by** @flyingzumwalt   
-**Duration** 60-90 minutes  
-**Who Should Attend:** People who want to engage in deep technical design work  
-**Who has to be there in order for it to work:** Session leaders who have the necessary design knowledge for the chosen topic
+- **Proposed by** @diasdavid  
+- **Led by** @flyingzumwalt   
+- **Duration** 60-90 minutes  
+- **Who Should Attend:** People who want to engage in deep technical design work  
+- **Who has to be there in order for it to work:** Session leaders who have the necessary design knowledge for the chosen topic
 
 ## Overview
 
