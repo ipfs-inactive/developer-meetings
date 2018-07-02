@@ -9,7 +9,7 @@
 ## Overview
 
 - **Objective:** _{describe the objective/goal of this session.}_
-- **Activity:** _{describe the activity/format of this session. If you're using one of the suggested session formats, you can just say Deep Dive, Poster Making, or Working Session.}_
+- **Activity:** _{describe the activity/format of this session. If you're using one of the suggested session formats, you can just say Deep Dive, or Poster Making Session.}_
 - **Outcome:** _{describe the outputs from the session. By the end of the session, what will you have produced? What will the participants have that they lacked before the sesion?}_
 
 ## Details
