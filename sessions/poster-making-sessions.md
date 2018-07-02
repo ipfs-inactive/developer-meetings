@@ -1,6 +1,8 @@
 # Poster-Making and Poster Viewing 
 
-_Have fun working in small groups to create posters and other documentation, then give a one-minute presentation of your work._
+_Have fun working in small groups to create posters and other documentation, then give a one-minute presentation of your work._ 
+
+[Original proposal and discussion at ipfs/conf#43](https://github.com/ipfs/conf/issues/43). 
 
 **Proposed by** @diasdavid  
 **Led by** @diasdavid & ???   
