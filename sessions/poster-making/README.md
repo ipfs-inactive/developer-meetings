@@ -1,13 +1,9 @@
-# Poster-Making and Poster Viewing 
+# Poster-Making and Poster Viewing
 
 Have fun working in small groups to create posters and other documentation, then give a one-minute presentation of your work.
 
-[Original proposal and discussion at ipfs/conf#43](https://github.com/ipfs/conf/issues/43). 
-
-**Proposed by** @diasdavid  
-**Led by** ???
 **Duration** 90 minutes  
-**Who Should Attend:** Anyone who wants to make a poster  
+**Who Should Attend:** Anyone who wants to learn or share knowledge by making a poster in a small team  
 **Who has to be there in order for it to work:** Anyone who wants to either share knowledge or do a bit of research and put findings in a poster.
 
 ## Overview
@@ -28,5 +24,20 @@ These topics will be pre selected (pre proposed) and they should be things that 
 - How does the DHT of IPFS work?
 - How does SECIO work?
 - IPNS
-- Rendezvous Protocol 
+- Rendezvous Protocol
 - etc
+
+# Proposed Poster Making Sessions
+
+If you want to propose a poster session, add it here (via a Pull Request). Optionally use the [template](../_template.md) to provide a fuller description of the session and link to it from your entry in the table below.
+
+| Topic | Proposed by | Necessary Participants | Description |
+|---|---|---|---|
+| unixfs | @diasdavid | ??? | What is Unixfs, how does it work, what are its data structures and what are the shortcomings that lead into the research of UnixfsV2?
+| Private DHT | @diasdavid | ??? | TBD
+| How does Bitswap work? | @diasdavid | ??? |
+| libp2p connection flow | @diasdavid | ??? | What is the connection flow of a libp2p connection? What happens internally and why?
+| Explain the IPFS DHT | @diasdavid | ??? | How does the DHT of IPFS work?
+| Explain SECIO | @diasdavid | ??? | How does SECIO work?
+| IPNS | @diasdavid | ??? | TBD
+| Rendezvous Protocol | @diasdavid | ??? | What is the Rendezvous protocol? How do IPFS and libp2p use it?
