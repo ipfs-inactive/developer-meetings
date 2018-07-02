@@ -1,4 +1,4 @@
-# Small Team Working 
+# Small Teams Working 
 
 [Original proposal and discussion of the format ipfs/conf#43](https://github.com/ipfs/conf/issues/43)
 
