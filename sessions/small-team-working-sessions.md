@@ -3,7 +3,6 @@ _Work together in small groups._
 
 This is a variant on the [poster-making sessions](poster-making-sessions.md) @diasdavid proposed. Rather than having people document something in a poster, let them work together in small teams to tackle a work package using techniques like pair programming.
 
-
 [Original proposal and discussion at ipfs/conf#43](https://github.com/ipfs/conf/issues/43). 
 
 **Proposed by** @flyingzumwalt & @diasdavid  
