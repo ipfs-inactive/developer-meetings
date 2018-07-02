@@ -1,8 +1,8 @@
 # Deep Technical Design Sessions
 
-_Intensive Technical Design Sessions_
-
 We aim to do a few of these during the meetings.
+
+[Original proposal and discussion at ipfs/conf#43](https://github.com/ipfs/conf/issues/43). 
 
 **Proposed by** @diasdavid  
 **Led by** @flyingzumwalt   
