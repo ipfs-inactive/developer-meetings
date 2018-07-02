@@ -1,5 +1,6 @@
-# Small Team Working Sessions
-_Work together in small groups._
+# Small Team Working 
+
+> Work together in small groups.
 
 This is a variant on the [poster-making sessions](poster-making-sessions.md) @diasdavid proposed. Rather than having people document something in a poster, let them work together in small teams to tackle a work package using techniques like pair programming.
 
