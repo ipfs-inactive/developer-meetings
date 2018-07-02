@@ -6,11 +6,11 @@ This is a variant on the [poster-making sessions](poster-making-sessions.md) @di
 
 [Original proposal and discussion at ipfs/conf#43](https://github.com/ipfs/conf/issues/43). 
 
-**Proposed by** @flyingzumwalt & @diasdavid  
-**Led by** @diasdavid & ???   
-**Duration** 60 minutes (or 90 minutes?) 
-**Who Should Attend:** Anyone who wants to work on a work package with a small group  
-**Who has to be there in order for it to work:** Many of the work packages involve knowledge from the maintainer who has worked on it the most. We will have to do some advance planning to match people with work packages in a way that will work. 
+- **Proposed by** @flyingzumwalt & @diasdavid  
+- **Led by** @diasdavid & ???   
+- **Duration** 60 minutes (or 90 minutes?) 
+- **Who Should Attend:** Anyone who wants to work on a work package with a small group  
+- **Who has to be there in order for it to work:** Many of the work packages involve knowledge from the maintainer who has worked on it the most. We will have to do some advance planning to match people with work packages in a way that will work. 
 
 ## Overview
 
