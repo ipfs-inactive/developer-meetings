@@ -5,15 +5,15 @@ Have fun working in small groups to create posters and other documentation, then
 [Original proposal and discussion at ipfs/conf#43](https://github.com/ipfs/conf/issues/43). 
 
 **Proposed by** @diasdavid  
-**Led by** @diasdavid & ???   
-**Duration** 60 minutes  
+**Led by** ???
+**Duration** 90 minutes  
 **Who Should Attend:** Anyone who wants to make a poster  
 **Who has to be there in order for it to work:** Anyone who wants to either share knowledge or do a bit of research and put findings in a poster.
 
 ## Overview
 
 - **Objective**: Promote collaboration, knowledge transfer through deep dives and generation of materials that can be used by others in the future.
-- **Activity**: These sessions consist on gathering people into small groups (2~3) and explore and understand in depth one of the selected topics before hand. At the end of the session, everyone should have a poster ready (this will be fun!) and present it to the rest of the group.
+- **Activity**: These sessions consist on gathering people into small groups (2~4) and explore and understand in depth one of the selected topics before hand. At the end of the session, everyone should have a poster ready (this will be fun!) and present it to the rest of the group.
 - **Outcome**: The posters and discussions will then be converted into docs and/or specs to the IPFS repos.
 
 ## Details
