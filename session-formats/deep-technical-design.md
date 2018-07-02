@@ -1,4 +1,4 @@
-# Deep Technical Design Sessions
+# Deep Technical Design
 
 We aim to do a few of these during the meetings.
 
