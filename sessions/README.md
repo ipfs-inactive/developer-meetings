@@ -15,9 +15,7 @@ You can propose any session format that you think will work for achieving your o
 - [Project Update Lightning Talks](./lightning-talks): Rapid-fire information-dense project updates
 - [Deep Dive](./deep-dive): Deep technical design sessions
 - [Poster Making](./poster-making): Work in small groups to create posters and other documentation, then give a one-minute presentation of your work.
-- [Working Session](./working-sessions): Small Team Working Sessions
-
-Otherwise, if you want to propose your own format, follow the instructions in the next few steps.
+- **Choose your own format!** if you want to propose your own format, follow the instructions in the next few steps.
 
 ## Step 3: Create a file using the template
 
