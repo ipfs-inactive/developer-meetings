@@ -15,4 +15,15 @@ Having all key players in the same room would be an ideal opportunity to move th
 
 Make decisions on if we want to switch to base32 and CIDv0 will be handled after the switch.
 
+## Key Decisions That Need to Be Made
+
+1. What Base32 encoding to use.
+
+2. Do we want to forbid CidV0 from having a multihash prefix?
+
+3. How will working with CIDv0 links in existing objects be handled?  Part of this answer depends on (2).
+
+4. Do we want to switch the blockstore to work with bare multihashes?
+
+4.1 If yes how will we distinguish between bare multihash and CidV0?  For example when displaying the list of local references.
 
