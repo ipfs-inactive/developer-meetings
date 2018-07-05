@@ -27,4 +27,4 @@ If you want to propose a deep dive session, add it here (via a Pull Request). Op
 | Private DHT | @diasdavid | ??? | TBD |
 | Scaling up the DHT | @diasdavid | ??? | TBD
 | Reducing the information leakage on a libp2p dial | @diasdavid | ??? | TBD
-| GraphSync | @diasdavid | ??? | TBD
+| GraphSync | @diasdavid | @diasdavid, @stebalien, @vmx | [details](graphsync.md)
