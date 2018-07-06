@@ -5,7 +5,7 @@
 **Activity:** Discussion
 
 **Goal(s):**
-- Discuss the Dapp sdk for ipfs
+- Discuss the Dapp sdk for ipfs,we'll supplement and improve the docment ASAP.
 
 **Duration:** 45 mins
 
