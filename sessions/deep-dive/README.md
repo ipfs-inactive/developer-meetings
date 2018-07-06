@@ -1,6 +1,6 @@
 # Deep Technical Design
 
-We aim to do a few of these during the meetings.
+[Original proposal and discussion of the format ipfs/conf#43](https://github.com/ipfs/conf/issues/43).
 
 - **Duration:** 60-90 minutes  
 - **Who Should Attend:** People who want to engage in deep technical design work  
