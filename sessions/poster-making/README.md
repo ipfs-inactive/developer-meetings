@@ -1,6 +1,6 @@
 # Poster-Making and Poster Viewing
 
-Have fun working in small groups to create posters and other documentation, then give a one-minute presentation of your work.
+Have fun working in small groups to create posters and other documentation, then give a one-minute presentation of your work. [Original proposal and discussion of the format ipfs/conf#43](https://github.com/ipfs/conf/issues/43).
 
 **Duration** 90 minutes  
 **Who Should Attend:** Anyone who wants to learn or share knowledge by making a poster in a small team  
