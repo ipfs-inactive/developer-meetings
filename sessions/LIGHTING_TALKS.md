@@ -2,12 +2,12 @@
 
 ## Sessions: Project Update Lightning Talks
 
-_Short project updates in rapid succession. No more than 30-45 minutes at a time (6-9 updates). This can/should be done more than once at the meetings to give at least 12-18 projects exposure._
+Short project updates in rapid succession. No more than 30-45 minutes at a time (6-9 updates). This can/should be done more than once at the meetings to give at least 12-18 projects exposure.
 
-**Proposed by** @flyingzumwalt  
-**Led by** @flyingzumwalt   
-**Duration** 30-45 minutes  
-**Who Should Attend:** Everyone  
+**Proposed by** @flyingzumwalt
+**Led by** @flyingzumwalt
+**Duration** 30-45 minutes
+**Who Should Attend:** Everyone
 **Who has to be there in order for it to work:** People who want to give a project update.
 
 ## Overview
@@ -18,38 +18,45 @@ _Short project updates in rapid succession. No more than 30-45 minutes at a time
 
 ## Details
 
-_This is a running list. Suggest more via PRs, or contact @flyingzumwalt to add something_
+This is a running list. Suggest more via PRs, or contact @flyingzumwalt to add something
 
 Here's a sketch of updates we could have on Day 1 and Day 2. People might want to do another session of updates during the unconference on Day 3.
 
-### Project Updates: Day 1
+### Day 1, Monday
 
-| Topic/Project | Presenter |
-|---|---|
-| IPFS ecosystem overview | @flyingzumwalt |
-| js-ipfs | @diasdavid & @alanshaw |
-| go-ipfs | TBD |
-| libp2p | @mgoelzer or @whyrusleeping |
-| IPLD | @stebalien |
-| peer* | @satazor  (for @pgte) |
-| ipfs-cluster | @hsanjuan |
-| infrastructure | @lgierth or @eefahy |
+| Topic/Project           | Presenter                   |
+|:-----------------------:|:---------------------------:|
+| IPFS ecosystem overview | @flyingzumwalt              |
+| js-ipfs                 | @diasdavid & @alanshaw      |
+| go-ipfs                 | TBD                         |
+| libp2p                  | @mgoelzer or @whyrusleeping |
+| IPLD                    | @stebalien                  |
+| peer🌟                  | @satazor (in lieu of @pgte) |
+| ipfs-cluster            | @hsanjuan                   |
+| infrastructure          | @lgierth or @eefahy         |
+| slot 9                  |                             |
 
-### Project Updates: Day 2
 
-| Topic/Project | Presenter |
-|---|---|
+### Day 2, Tuesday
+
+| Topic/Project           | Presenter                   |
+|:-----------------------:|:---------------------------:|
 | Data Stewardship & Data Together | @flyingzumwalt and @meiqimichelle |
 | textile.io ([Adding the world's personal data to IPFS](https://github.com/ipfs/developer-meetings/pull/2)) | @anderewxhill |
-| orbit-db | @haadcode |
-| ??? | ??? |
+| orbit-db                | @haadcode                   |
+| slot 4                  |                             |
+| slot 5                  |                             |
+| slot 6                  |                             |
+| slot 7                  |                             |
+| slot 8                  |                             |
+| slot 9                  |                             |
 
-### Other Updates to consider adding:
+### Other Updates to consider adding (aka propose your lighting talk here):
 
 If you want to propose a lightning talk, add it to this list via a Pull Request.
 
-| Topic/Project | Presenter |
-|---|---|
-| Web Browsers WG | @lidel |
-| GUI WG | @olizilla |
-| Dynamic Data Structures and Capabilities WG | @diasdavid (for @pgte) ? |
+| Topic/Project           | Presenter                   |
+|:-----------------------:|:---------------------------:|
+| Web Browsers WG         | @lidel |
+| GUI WG                  | @olizilla |
+| Dynamic Data and Capabilities WG | @diasdavid (in lieu @pgte) ? |
