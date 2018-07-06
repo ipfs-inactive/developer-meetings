@@ -25,11 +25,11 @@ Here's a sketch of updates we could have on Day 1 and Day 2. People might want t
 | Topic/Project | Presenter |
 |---|---|
 | IPFS ecosystem overview | @flyingzumwalt |
-| js-ipfs | @diasdavid |
+| js-ipfs | @diasdavid & @alanshaw |
 | go-ipfs | TBD |
 | libp2p | @mgoelzer or @whyrusleeping |
 | IPLD | @stebalien |
-| peer* | @diasdavid (for @pgte) |
+| peer* | @satazor  (for @pgte) |
 | ipfs-cluster | @hsanjuan |
 | infrastructure | @lgierth or @eefahy |
 
