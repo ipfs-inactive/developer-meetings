@@ -22,9 +22,10 @@ These deep technical design sessions will attempt to revive that and allow other
 
 If you want to propose a deep dive session, add it here (via a Pull Request). Optionally use the [template](../_template.md) to provide a fuller description of the session.
 
-| Topic | Proposed by | Necessary Participants | Description |
-|---|---|---|---|
-| Private DHT | @diasdavid | ??? | TBD |
-| Scaling up the DHT | @diasdavid | ??? | TBD
-| Reducing the information leakage on a libp2p dial | @diasdavid | ??? | TBD
-| GraphSync | @diasdavid | @diasdavid, @stebalien, @vmx | [details](graphsync.md)
+| Topic                    | Proposed by  | Necessary Participants | Description |
+|:------------------------:|:------------:|:----------------------:|:-----------:|
+| Private DHT | @diasdavid | ???          | TBD | |
+| Scaling up the DHT       | @diasdavid   | ??? | TBD |
+| Reducing the information leakage on a libp2p dial | @diasdavid | ??? | TBD |
+| GraphSync                | @diasdavid   | @diasdavid, @stebalien, @vmx | [details](graphsync.md) |
+| Locking the IPFS repo for concurrent access | @alanshaw | @diasdavid @achingbrain @alanshaw @pgte @hugomrdias @satazor @lidel @olizilla | How do we manage concurrent access to an IPFS repo when we have multiple tabs on the same domain or web workers or service workers? How do we avoid being too restrictive (i.e. locking everything) whilst guarding against race conditions and concurrency problems? |
