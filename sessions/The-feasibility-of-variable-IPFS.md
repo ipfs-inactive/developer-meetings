@@ -5,7 +5,7 @@
 **Activity:** Discussion
 
 **Goal(s):**
-- Establish a new solid roadmap for supporting NPM on IPFS
+- Discuss the feasibility of variable IPFS
 
 **Duration:** 45 mins
 
