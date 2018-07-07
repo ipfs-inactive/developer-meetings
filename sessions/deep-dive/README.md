@@ -29,3 +29,4 @@ If you want to propose a deep dive session, add it here (via a Pull Request). Op
 | Reducing the information leakage on a libp2p dial | @diasdavid | ??? | TBD |
 | GraphSync                | @diasdavid   | @diasdavid, @stebalien, @vmx | [details](graphsync.md) |
 | Locking the IPFS repo for concurrent access | @alanshaw | @diasdavid @achingbrain @alanshaw @pgte @hugomrdias @satazor @lidel @olizilla | How do we manage concurrent access to an IPFS repo when we have multiple tabs on the same domain or web workers or service workers? How do we avoid being too restrictive (i.e. locking everything) whilst guarding against race conditions and concurrency problems? |
+|Proposing and Discussing Open Research Questions | @miyazono| N/A | Increase awareness of the RFP program and research discussion repo, and source open problem ideas |
