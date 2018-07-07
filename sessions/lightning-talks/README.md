@@ -1,4 +1,6 @@
-## Session(s): Project Update Lightning Talks
+[IPFS Dev Meeting](../../README.md) | [Sessions](../README.md) | Lightning Talks
+
+## Sessions: Project Update Lightning Talks
 
 _Short project updates in rapid succession. No more than 30-45 minutes at a time (6-9 updates). This can/should be done more than once at the meetings to give at least 12-18 projects exposure._
 

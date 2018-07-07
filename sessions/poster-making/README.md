@@ -1,8 +1,10 @@
-# Poster-Making and Poster Viewing
+[IPFS Dev Meeting](../../README.md) | [Sessions](../README.md) | Poster Making
+
+# Sessions: Poster-Making and Poster Viewing
 
 Have fun working in small groups to create posters and other documentation, then give a one-minute presentation of your work. [Original proposal and discussion of the format ipfs/conf#43](https://github.com/ipfs/conf/issues/43).
 
-**Duration** 90 minutes  
+**Duration** 75 minutes  
 **Who Should Attend:** Anyone who wants to learn or share knowledge by making a poster in a small team  
 **Who has to be there in order for it to work:** Anyone who wants to either share knowledge or do a bit of research and put findings in a poster.
 
