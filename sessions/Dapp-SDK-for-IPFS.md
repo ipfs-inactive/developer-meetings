@@ -1,11 +1,11 @@
 # Dapp SDK for IPFS
 
-**Description:** Dapp SDK for IPFS
+**Description:** A model of Dapp SDK for IPFS
 
-**Activity:** Discussion
+**Activity:** Discussion(open talking)
 
 **Goal(s):**
-- Discuss the Dapp sdk for ipfs,we'll supplement and improve the docment ASAP.
+- Discuss the Dapp sdk for ipfs.
 
 **Duration:** 45 mins
 
@@ -13,3 +13,6 @@
 
 ---
 # Agenda
+**A model of Dapp SDK for IPFS**
+
+**Competitor analysis** 
