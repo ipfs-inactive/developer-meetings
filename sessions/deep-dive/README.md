@@ -4,7 +4,7 @@
 
 [Original proposal and discussion of the format ipfs/conf#43](https://github.com/ipfs/conf/issues/43).
 
-- **Duration:** 75 minutes  
+- **Duration:** 2 hours (take breaks as needed)
 - **Who Should Attend:** People who want to engage in deep technical design work  
 - **Who has to be there in order for it to work:** Session leaders who have the necessary design knowledge for the chosen topic
 
