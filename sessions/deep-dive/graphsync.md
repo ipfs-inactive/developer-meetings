@@ -5,6 +5,7 @@
 - **Duration:** 60 minutes
 - **Who Should Attend:** @jbenet, @whyrusleeping
 - **Who has to be there in order for it to work:** @diasdavid, @stebalien
+- **Reading material**: https://gist.github.com/vmx/6cc53f606ce566252947e9f899ba05f2
 
 ## Overview
 
