@@ -4,14 +4,14 @@
 
 Form pairs to tackle work packages explicitly focused on code. **Aim for lots of pair programming.**
 
-- **Duration** 2 hours (take breaks as needed)
+- **Duration** 90 minutes (take breaks as needed)
 - **Who Should Attend:** Anyone who wants to work on code with a partner  
 - **Who has to be there in order for it to work:** Many of the work packages involve knowledge from the maintainer who has worked on it the most. The tech leads will circulate around the various groups to answer questions and provide guidance.
 
 ## Overview
 
 - **Objective:** Build people's working relationships while tackling known issues that will benefit from people doing synchronous work on them.  
-- **Activity:** In pairs, spend 2 hours unpacking a work package together, designing solutions, pair programming, etc, then report back on the work you accomplished. _Especially focus on coding during these sessions._
+- **Activity:** In pairs, spend 90 minutes unpacking a work package together, designing solutions, pair programming, etc, then report back on the work you accomplished. _Especially focus on coding during these sessions._
 - **Outcomes:** Commit improvements & fixes and review or merge outstanding PRs related to important work packages.
 
 ## Details
