@@ -15,7 +15,8 @@ You can propose any session format that you think will work for achieving your o
 - [Project Update Lightning Talks](./lightning-talks): Rapid-fire information-dense project updates
 - [Deep Dive](./deep-dive): Deep technical design sessions
 - [Poster Making](./poster-making): Work in small groups to create posters and other documentation, then give a one-minute presentation of your work.
-- **Choose your own format!** if you want to propose your own format, follow the instructions in the next few steps.
+- [Hack Time](./hack-time): In pairs, tackle work units explicitly focused on code. Aim for lots of pair programming.
+- ... or **specify your own format!** if you want to propose your own session format, follow the instructions in the next few steps.
 
 ## Step 3: Create a file using the template
 
