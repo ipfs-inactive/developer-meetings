@@ -13,6 +13,6 @@
 
 ---
 # Agenda
-**A model of Dapp SDK for IPFS**
 
-**Competitor analysis** 
+- A model of Dapp SDK for IPFS
+- Competitor analysis
