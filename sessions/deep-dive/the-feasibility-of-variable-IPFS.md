@@ -1,3 +1,5 @@
+> Incomplete/Owner missing/Not going to be covered in this dev meeting
+
 # The feasibility of variable IPFS
 
 **Description:**
