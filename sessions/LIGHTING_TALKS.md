@@ -34,7 +34,7 @@ Here's a sketch of updates we could have on Day 1 and Day 2. People might want t
 | peer🌟                  | @satazor (in lieu of @pgte) |
 | ipfs-cluster            | @hsanjuan                   |
 | infrastructure          | @lgierth or @eefahy         |
-| slot 9                  |                             |
+| Web Browsers WG         | @lidel                      |
 
 
 ### Day 2, Tuesday
@@ -44,8 +44,8 @@ Here's a sketch of updates we could have on Day 1 and Day 2. People might want t
 | Data Stewardship & Data Together | @flyingzumwalt and @meiqimichelle |
 | textile.io ([Adding the world's personal data to IPFS](https://github.com/ipfs/developer-meetings/pull/2)) | @anderewxhill |
 | orbit-db                | @haadcode                   |
-| slot 4                  |                             |
-| slot 5                  |                             |
+| GUI WG                  | @olizilla                   |
+| DDC WG                  | @satazor & gpestana (in lieu @pgte) |
 | slot 6                  |                             |
 | slot 7                  |                             |
 | slot 8                  |                             |
@@ -57,6 +57,4 @@ If you want to propose a lightning talk, add it to this list via a Pull Request.
 
 | Topic/Project           | Presenter                   |
 |:-----------------------:|:---------------------------:|
-| Web Browsers WG         | @lidel |
-| GUI WG                  | @olizilla |
-| Dynamic Data and Capabilities WG | @diasdavid (in lieu @pgte) ? |
+
