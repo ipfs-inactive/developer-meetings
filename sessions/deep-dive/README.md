@@ -32,3 +32,4 @@ If you want to propose a deep dive session, add it here (via a Pull Request). Op
 | Get the RFC Process (RFC #1) ready to ratify | @flyingzumwalt | Review RFC #1 -- the RFC process. Submit a PR with final changes. Start FCP (Final Comment Period) |
 | Setting the Working Group Lifecycle (RFC #2) | @flyingzumwalt | Review RFC #2 -- governance, org structure, WG lifecycle. Submit a PR with final changes. Start FCP (Final Comment Period) |
 | Designing for better Coordination and Planning across the Ecosystem | @flyingzumwalt | [full description](team-coordination-at-scale.md) |
+| base32                  | @kevina       | [full description](base32.md)
