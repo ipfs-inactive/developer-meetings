@@ -31,7 +31,7 @@ Here's a sketch of updates we could have on Day 1 and Day 2. People might want t
 | go-ipfs                 | TBD                         |
 | libp2p                  | @mgoelzer or @whyrusleeping |
 | IPLD                    | @stebalien                  |
-| peer🌟                  | @satazor (in lieu of @pgte) |
+| DDC WG                  | @satazor & gpestana (in lieu @pgte) |
 | ipfs-cluster            | @hsanjuan                   |
 | infrastructure          | @lgierth or @eefahy         |
 | Web Browsers WG         | @lidel                      |
@@ -45,7 +45,7 @@ Here's a sketch of updates we could have on Day 1 and Day 2. People might want t
 | textile.io ([Adding the world's personal data to IPFS](https://github.com/ipfs/developer-meetings/pull/2)) | @anderewxhill |
 | orbit-db                | @haadcode                   |
 | GUI WG                  | @olizilla                   |
-| DDC WG                  | @satazor & gpestana (in lieu @pgte) |
+| peer-star               | @satazor (in lieu of @pgte) |
 | slot 6                  |                             |
 | slot 7                  |                             |
 | slot 8                  |                             |
