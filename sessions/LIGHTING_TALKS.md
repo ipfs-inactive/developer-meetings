@@ -42,6 +42,7 @@ Here's a sketch of updates we could have on Day 1 and Day 2. People might want t
 | textile.io ([Adding the world's personal data to IPFS](https://github.com/ipfs/developer-meetings/pull/2)) | @anderewxhill |
 | orbit-db                | @haadcode                   |
 | merklebuilds!           | @warpfork                   |
+| IPID DID Method Spec    | @jonnycrunch                |
 | Web Browsers WG         | @lidel                      |
 | GUI WG                  | @olizilla                   |
 | peer-star               | @satazor (in lieu of @pgte) |
@@ -56,4 +57,3 @@ If you want to propose a lightning talk, add it to this list via a Pull Request.
 | Topic/Project           | Presenter                   |
 |:-----------------------:|:---------------------------:|
 | ??                      | ??                          |
-
