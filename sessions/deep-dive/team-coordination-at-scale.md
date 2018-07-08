@@ -14,6 +14,7 @@
 - **Outcome:** Suggestions of concrete improvements we can make to the OKR process, ideally including measures for assessing success/failure of the process, and suggestions of other things we can do to improve coordination and planning
 
 ## Details
+
 Aim to improve rather than reinventing
 
 - Discuss Bureaucracy vs. Healthy Habits
