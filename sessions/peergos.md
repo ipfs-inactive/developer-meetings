@@ -15,3 +15,9 @@ Session: Peergos: A secure, private social network on top of ipfs
 ## Details
 
 A brief introduction to Peergos, going into our architecture, data structures and how we use IPFS. 
+
+If anyone wants to do prior reading see:
+
+https://peergos.github.io/book/
+
+Https://github.com/Peergos/peergos
