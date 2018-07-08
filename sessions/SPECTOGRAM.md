@@ -1,6 +1,6 @@
-# Activity (Partial Session): Placing People in the Landscape 
+# Placing People in the Landscape (first day activity)
 
-_This is a spectrogram exercise that we will do as the second half of our opening session on Day 1._
+This is a spectrogram exercise that we will do as the second half of our opening session on Day 1.
 
 **Proposed by** @flyingzumwalt  
 **Led by** @flyingzumwalt & @diasdavid  
@@ -60,11 +60,10 @@ Categories of Use
 - IPFS on Mobile
 
 Products
-- peer*
+- peer-star
 - peerpad 
 - orbit-db
 - ??? 
-
 
 ## Some considerations
 

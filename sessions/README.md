@@ -23,7 +23,7 @@ You can propose any session format that you think will work for achieving your o
 In a branch or fork of this repository (or through github's web interface):
 
 1. Create a new file in [/sessions](./) folder of this repository.
-2. Paste the contents of [_template.md](./_template.md) into the file
+2. Paste the contents of [template.md](./_template.md) into the file.
 
 ## Step 4: Write your Session Proposal
 
@@ -38,4 +38,5 @@ Fill in the fields in the template. You can use [this example proposal](./_examp
 - **Agenda:** Outline the agenda for your session, spelling out how you will use the time.
 
 ## Step 5: Submit the pull request
+
 When your proposal is ready to submit, create a new PR on this repository. Put your session title in the title of the PR.
