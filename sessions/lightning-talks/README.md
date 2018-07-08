@@ -53,3 +53,4 @@ If you want to propose a lightning talk, add it to this list via a Pull Request.
 | Web Browsers WG | @lidel |
 | GUI WG | @olizilla |
 | Dynamic Data Structures and Capabilities WG | @diasdavid (for @pgte) ? |
+| IPID DID Method Spec | @jonnycrunch |
