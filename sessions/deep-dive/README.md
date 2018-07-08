@@ -35,4 +35,11 @@ If you want to propose a deep dive session, add it here (via a Pull Request). Op
 | Designing for better Coordination and Planning across the Ecosystem | @flyingzumwalt | [full description](team-coordination-at-scale.md) |
 | base32                  | @kevina       | [full description](base32.md)
 | DApps SDK               | @waynewyong   | [full description](Dapp-SDK-for-IPFS.md)
-
+| Identity for DApps	| @diasdavid	| 	https://github.com/ipfs/dynamic-data-and-capabilities/issues/7
+| Live Streaming Capabilities through IPFS to X thousand | @diasdavid | 	
+| Sharing IPLD Graphs (Implementation + API) | @diasdavid		
+| Integration Testing for the IPFS + libp2p | @diasdavid | https://github.com/ipfs/notes/issues/294
+| Sustainable Modules and Open Source Software | @diasdavid | https://github.com/ipfs/notes/issues/273
+| Sound Cryptographic ACLs (aka Capabilities) | @diasdavid | 
+| Upgrading the HTTP-API to a RPC API (stop the nonsense) | @diasdavid | We desperately need a new remote API https://github.com/ipfs/http-api-spec/issues/116
+| CRDTs ACL and Authorship | @diasdavid | https://github.com/ipfs/dynamic-data-and-capabilities/issues/25
