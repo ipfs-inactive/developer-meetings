@@ -1,8 +1,4 @@
-[IPFS Dev Meeting](../../README.md) | [Sessions](../README.md) | Deep Dive
-
-# Sessions: Deep Technical Design
-
-[Original proposal and discussion of the format ipfs/conf#43](https://github.com/ipfs/conf/issues/43).
+# Deep Technical Design Sessions
 
 - **Duration:** 2 hours (take breaks as needed)
 - **Who Should Attend:** People who want to engage in deep technical design work  
@@ -20,18 +16,19 @@ One of the things that we did a lot in the first couple of years of IPFS was to 
 
 These deep technical design sessions will attempt to revive that and allow others experience it. We have a bunch of open problems (e.g. Private DHT, scale up the DHT, reduce the information leakage on a libp2p dial, GraphSync, etc).
 
+You can learn more about the design of this session format on its [original proposal and discussion of the format ipfs/conf#43](https://github.com/ipfs/conf/issues/43).
 # Proposed Deep Dive Sessions
 
 If you want to propose a deep dive session, add it here (via a Pull Request). Optionally use the [template](../_template.md) to provide a fuller description of the session.
 
-| Topic                    | Proposed by  | Necessary Participants | Description |
-|:------------------------:|:------------:|:----------------------:|:-----------:|
-| Private DHT | @diasdavid | ???          | TBD                    |             |
-| Scaling up the DHT       | @diasdavid   | ???                    | TBD         |
-| Reducing the information leakage on a libp2p dial | @diasdavid | ??? | TBD |
-| GraphSync                | @diasdavid   | @diasdavid, @stebalien, @vmx | [details](graphsync.md) |
-| Locking the IPFS repo for concurrent access | @alanshaw | @diasdavid @achingbrain @alanshaw @pgte @hugomrdias @satazor @lidel @olizilla | How do we manage concurrent access to an IPFS repo when we have multiple tabs on the same domain or web workers or service workers? How do we avoid being too restrictive (i.e. locking everything) whilst guarding against race conditions and concurrency problems? |
-|Proposing and Discussing Open Research Questions | @miyazono| N/A | Increase awareness of the RFP program and research discussion repo, and source open problem ideas |
-| Get the RFC Process (RFC #1) ready to ratify | @flyingzumwalt |  | Review RFC #1 -- the RFC process. Submit a PR with final changes. Start FCP (Final Comment Period) |
-| Setting the Working Group Lifecycle (RFC #2) | @flyingzumwalt | At least a few Working Group captains | Review RFC #2 -- governance, org structure, WG lifecycle. Submit a PR with final changes. Start FCP (Final Comment Period) |
-| Designing for better Coordination and Planning across the Ecosystem | @flyingzumwalt | | [details](team-coordination-at-scale.md) |
+| Topic                    | Proposed by  | Description |
+|:------------------------:|:------------:|:-----------:|
+| Private DHT              | @diasdavid   |             |
+| Scaling up the DHT       | @diasdavid   | TBD         |
+| Reducing the information leakage on a libp2p dial | @diasdavid | TBD |
+| GraphSync                | @diasdavid   | [full description](graphsync.md) |
+| Locking the IPFS repo for concurrent access | @alanshaw | How do we manage concurrent access to an IPFS repo when we have multiple tabs on the same domain or web workers or service workers? How do we avoid being too restrictive (i.e. locking everything) whilst guarding against race conditions and concurrency problems? |
+| Proposing and Discussing Open Research Questions | @miyazono | Increase awareness of the RFP program and research discussion repo, and source open problem ideas |
+| Get the RFC Process (RFC #1) ready to ratify | @flyingzumwalt | Review RFC #1 -- the RFC process. Submit a PR with final changes. Start FCP (Final Comment Period) |
+| Setting the Working Group Lifecycle (RFC #2) | @flyingzumwalt | Review RFC #2 -- governance, org structure, WG lifecycle. Submit a PR with final changes. Start FCP (Final Comment Period) |
+| Designing for better Coordination and Planning across the Ecosystem | @flyingzumwalt | [full description](team-coordination-at-scale.md) |
