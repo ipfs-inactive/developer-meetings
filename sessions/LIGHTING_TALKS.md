@@ -27,15 +27,14 @@ Here's a sketch of updates we could have on Day 1 and Day 2. People might want t
 | Topic/Project           | Presenter                   |
 |:-----------------------:|:---------------------------:|
 | IPFS ecosystem overview | @flyingzumwalt              |
-| js-ipfs                 | @diasdavid & @alanshaw      |
-| go-ipfs                 | TBD                         |
-| libp2p                  | @mgoelzer or @whyrusleeping |
+| js-ipfs                 | @diasdavid                  |
+| go-ipfs                 | @whyrusleeping              |
+| libp2p                  | @mgoelzer                   |
 | IPLD                    | @stebalien                  |
 | DDC WG                  | @satazor & gpestana (in lieu @pgte) |
 | ipfs-cluster            | @hsanjuan                   |
 | infrastructure          | @lgierth or @eefahy         |
 | Web Browsers WG         | @lidel                      |
-
 
 ### Day 2, Tuesday
 
@@ -57,4 +56,5 @@ If you want to propose a lightning talk, add it to this list via a Pull Request.
 
 | Topic/Project           | Presenter                   |
 |:-----------------------:|:---------------------------:|
+| ??                      | ??                          |
 
