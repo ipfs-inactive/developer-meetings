@@ -56,5 +56,6 @@ If you want to propose a lightning talk, add it to this list via a Pull Request.
 
 | Topic/Project           | Presenter                   |
 |:-----------------------:|:---------------------------:|
+| merklebuilds!           | @warpfork                   |
 | ??                      | ??                          |
 
