@@ -34,20 +34,19 @@ Here's a sketch of updates we could have on Day 1 and Day 2. People might want t
 | DDC WG                  | @satazor & gpestana (in lieu @pgte) |
 | ipfs-cluster            | @hsanjuan                   |
 | infrastructure          | @lgierth or @eefahy         |
-| Web Browsers WG         | @lidel                      |
 
 ### Day 2, Tuesday
 
 | Topic/Project           | Presenter                   |
 |:-----------------------:|:---------------------------:|
-| Data Stewardship & Data Together | @flyingzumwalt and @meiqimichelle |
 | textile.io ([Adding the world's personal data to IPFS](https://github.com/ipfs/developer-meetings/pull/2)) | @anderewxhill |
 | orbit-db                | @haadcode                   |
+| merklebuilds!           | @warpfork                   |
+| Web Browsers WG         | @lidel                      |
 | GUI WG                  | @olizilla                   |
 | peer-star               | @satazor (in lieu of @pgte) |
-| slot 6                  |                             |
-| slot 7                  |                             |
-| slot 8                  |                             |
+| Data Stewardship & Data Together | @flyingzumwalt and @meiqimichelle |
+| pserver (demo)          | @waynewyong                 |
 | slot 9                  |                             |
 
 ### Other Updates to consider adding (aka propose your lighting talk here):
@@ -56,6 +55,5 @@ If you want to propose a lightning talk, add it to this list via a Pull Request.
 
 | Topic/Project           | Presenter                   |
 |:-----------------------:|:---------------------------:|
-| merklebuilds!           | @warpfork                   |
 | ??                      | ??                          |
 
