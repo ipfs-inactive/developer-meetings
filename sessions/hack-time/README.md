@@ -37,4 +37,5 @@ Some examples:
 | Try the metamask network visualization with latest js-libp2p	| @diasdavid	|  |
 | Revive ipget	| @diasdavid	| ipget is dead, long live ipget! |
 | Revamp ipscend	| @diasdavid	|  |
+| Make catReadableStream work with arbitrary chunked objects| @parkan | urlstore objects are not compatible with ReadableStream, even though they're of almost the right shape |
 | _{specify the objective of the work}_ | _{your name}_ | _{describe what you want to do in this work session}_
