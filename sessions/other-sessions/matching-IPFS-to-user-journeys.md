@@ -5,8 +5,7 @@ v1 UPDATE :D
 @meiqimichelle chatted with folks this morning, and realized it might be *even more* useful to flesh out our user journey swimlane with those here who have end-user experience (ie, have been in in roles where they needed to store or process large volumes of data in Real Life) (perhaps jonnycrunch or Erin or flyingzumwalt or brendan...anyone else?). We should definitely eventually use visual user journeys to understand how to match IPFS work to user needs, but time here might be better spent getting a more detailed journey first. If anyone else has this work experience, please come to this session and help us understand what you life looks/looked like!
 
 
-====================================================
-v0
+v0====================================================
 
 **Motivation:** We have started to understand large volume data user needs (via Kelani's user research). We should build on this work by starting to understand how our IPFS development fits into that research so that we can identify areas we're meeting user needs, and areas we might have gaps.
 
