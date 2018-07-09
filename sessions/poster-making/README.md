@@ -1,6 +1,6 @@
 [IPFS Dev Meeting](../../README.md) | [Sessions](../README.md) | Poster Making
 
-# Sessions: Poster-Making and Poster Viewing
+# Poster-Making and Poster Viewing
 
 Have fun working in small groups to create posters and other documentation, then give a one-minute presentation of your work. [Original proposal and discussion of the format ipfs/conf#43](https://github.com/ipfs/conf/issues/43).
 
@@ -52,38 +52,30 @@ _We're aiming to have at least 15 poster topics for people to choose from._
 
 | Topic | Proposed by | Description |
 |---|---|---|
-| unixfs | @diasdavid | What is Unixfs, how does it work, what are its data structures and what are the shortcomings that lead into the research of UnixfsV2?
-| Private DHT | @diasdavid | TBD
-| How does Bitswap work? | @diasdavid | 
-| libp2p connection flow | @diasdavid | What is the connection flow of a libp2p connection? What happens internally and why?
-| Explain the IPFS DHT | @diasdavid | How does the DHT of IPFS work?
-| Explain SECIO | @diasdavid | How does SECIO work?
-| IPNS | @diasdavid | TBD
+| 🌟 unixfs | @diasdavid | What is Unixfs, how does it work, what are its data structures and what are the shortcomings that lead into the research of UnixfsV2?
+| 🌟 How does Bitswap work? | @diasdavid | The Decision Engine and the ledger; how reproviding happens; what is Bitswap 1.0.0 vs Bitswap 1.1.0? Is there a tit-for-tat? |
+| 🌟 How does IPLD enable IPFS to traverse through multiple types of hash linked-data | @diasdavid | 
+| 🌟 MFS - Mutable File System && Files API | @diasdavid | 
+| 🌟 PeerPad Capabilities System | @diasdavid | 
+| 🌟 Pinning and Garbage Collection on IPFS | @diasdavid | 
+| libp2p connection flow | @diasdavid | What is the connection flow of a libp2p connection? What happens internally and why? (what is the libp2p-switch) |
+| 🌟 Explain the IPFS DHT | @diasdavid | How does the DHT of IPFS work? Make the distinction between Peer Routing and Content Routing
+| 🌟 IPNS - InterPlanetary Naming System | @diasdavid | TBD
+| 🌟 The intrinsicacies of DWeb Addressing | @diasdavid | The challenges with the origin policy and all details to have in consideration when adding IPFS natively to Web Browsers resolution.
+| 🌟 KeyStore & Linked Data Key (aka Multikey) | @diasdavid | 
+| 🌟 The design of the IPFS Repo | @diasdavid | 
+| 🌟 DEX - The Importers and Exporters Project | @diasdavid | 
+| 🌟 FloodSub | @diasdavid | Implementation, Design & Shortcommings, what is next 
+| 🌟 gx | @diasdavid | What is gx, how does it work, benefits, pros, cons
+| 🌟 InterPlanetary Test Lab | @diasdavid | 
+| CAR | @diasdavid | Content Addressed Archives
+| PDD | @diasdavid | Protocol Driven Development
+| SECIO | @diasdavid | How does SECIO work?
 | Rendezvous Protocol | @diasdavid | What is the Rendezvous protocol? How do IPFS and libp2p use it?
-| Unixfs design | @diasdavid | What is Unixfs, how does it work, what are its data structures and what are the shortcomings that lead into the research of UnixfsV2? (Make sure to include the multiple layouts and sharding)
-| How does Bitswap work? | @diasdavid | The Decision Engine and the ledger; how reproviding happens; what is Bitswap 1.0.0 vs Bitswap 1.1.0? Is there a tit-for-tat?
-| libp2p connection flow | @diasdavid | What is the connection flow of a libp2p connection? What happens internally and why?
-| Explain the IPFS DHT | @diasdavid | How does the DHT of IPFS work? Make the distinction between Peer Routing and Content Routing
-| Explain SECIO | @diasdavid | How does SECIO work?
-| IPNS - InterPlanetary Naming System | @diasdavid | TBD
-| Rendezvous Protocol | @diasdavid | What is the Rendezvous protocol? How do IPFS and libp2p use it?
-| How does IPLD enable IPFS to traverse through multiple types of hash linked-data | @diasdavid | 
-| MFS - Mutable File System && Files API | @diasdavid | 
-| CAR - Content Addressed Archives | @diasdavid | 
-| The intrinsicacies of DWeb Addressing | @diasdavid | 
-| KeyStore & Linked Data Key (aka Multikey) | @diasdavid | 
-| The design of the IPFS Repo | @diasdavid | 
-| DEX - The Importers and Exporters Project | @diasdavid | 
 | IPRS - InterPlanetary Record System | @diasdavid | 
 | The collection of Multiformats | @diasdavid | 
-| PDD - Protocol Driven Development | @diasdavid | 
-| PeerPad Capabilities System | @diasdavid | 
-| FloodSub | @diasdavid | Implementation, Design & Shortcommings 
-| gx | @diasdavid | What is gx, how does it work, benefits, pros, cons
 | Protocol and Stream Multiplexing | @diasdavid | 
 | Circuit Relay | @diasdavid | 
-| libp2p-switch | @diasdavid | 
 | dnslink | @diasdavid | 
-| Pinning and Garbage Collection on IPFS | @diasdavid | 
-| InterPlanetary Test Lab | @diasdavid | 
+
 | xTP - External Transports | @diasdavid  | 
