@@ -42,13 +42,12 @@ Here's a sketch of updates we could have on Day 1 and Day 2. People might want t
 | textile.io ([Adding the world's personal data to IPFS](https://github.com/ipfs/developer-meetings/pull/2)) | @anderewxhill |
 | orbit-db                | @haadcode                   |
 | merklebuilds!           | @warpfork                   |
-| IPID DID Method Spec    | @jonnycrunch                |
+| [IPID DID Method Spec](lightning-talks/ipid.md) | @jonnycrunch |
 | Web Browsers WG         | @lidel                      |
 | GUI WG                  | @olizilla                   |
 | peer-star               | @satazor (in lieu of @pgte) |
 | Data Stewardship & Data Together | @flyingzumwalt and @meiqimichelle |
 | pserver (demo)          | @waynewyong                 |
-| slot 9                  |                             |
 
 ### Other Updates to consider adding (aka propose your lighting talk here):
 
