@@ -44,3 +44,4 @@ If you want to propose a deep dive session, add it here (via a Pull Request). Op
 | Upgrading the HTTP-API to a RPC API (stop the nonsense) | @diasdavid | We desperately need a new remote API https://github.com/ipfs/http-api-spec/issues/116
 | CRDTs ACL and Authorship | @diasdavid | https://github.com/ipfs/dynamic-data-and-capabilities/issues/25
 | Design Service Worker Lib for Web Development                  | @lidel       | [full description](service-worker.md)
+| Designing HTTP API Docs that Work | @Mr0grog | [full description](http-api-docs-that-work.md)
