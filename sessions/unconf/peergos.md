@@ -11,7 +11,7 @@ Session: Peergos: A secure, private social network on top of ipfs
 - **Objective:** A brief introduction to Peergos, our data structures, and how we use ipfs.
 - **Activity:** I have slides for a 30 minute talk, but can also mix in questions or discussion.
 - **Outcome:** Improve awareness of Peergos and how we use IPFS.
-
+- **Slides:** https://speakerdeck.com/ianopolous/peergos-architecture
 ## Details
 
 A brief introduction to Peergos, going into our architecture, data structures and how we use IPFS. 
