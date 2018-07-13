@@ -38,4 +38,5 @@ Some examples:
 | Revive ipget	| @diasdavid	| ipget is dead, long live ipget! |
 | Revamp ipscend	| @diasdavid	|  |
 | Make catReadableStream work with arbitrary chunked objects| @parkan | urlstore objects are not compatible with ReadableStream, even though they're of almost the right shape |
+| Deploy ipfs-cluster in k8s via helm | @koalalorenzo | Creating a helm chart for ipfs-cluster |
 | _{specify the objective of the work}_ | _{your name}_ | _{describe what you want to do in this work session}_
