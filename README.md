@@ -1,4 +1,4 @@
-# 2018 IPFS Developers Meeting in Berlin
+![](https://ipfs.io/ipfs/QmQnUstaKTPA92XAkCj2cxBACX1nMyfjYeTHSawejGxASW)
 
 - **Dates**: 9-11 July
 - **Location**: Berlin
