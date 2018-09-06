@@ -33,4 +33,4 @@ We are accepting session proposals for the Developer Meeting via Pull Requests i
 
 ## Related Event
 
-- **IPFSConf** Lisbon November 2018 - [pre-register for IPFSConf in November](https://goo.gl/forms/0Pu6VZzG8pRAmrrv2)
+- **IPFS Conf** Lisbon 2019 - [pre-register for IPFS Conf in 2019](https://goo.gl/forms/0Pu6VZzG8pRAmrrv2)
