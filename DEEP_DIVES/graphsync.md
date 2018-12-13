@@ -21,3 +21,8 @@
  4. Discuss trade-offs that need to be made on the MVP the don’t align with the ideal product (hopefully none)
  5. Have a detailed plan for the MVP, rough plan for the ideal product
  6. Bonus points for finding a better name than GraphSync
+
+## Epilogue
+
+ - **Attendees**: @b5, @mib-kd743naq, @vmx
+ - **Outcome**: https://github.com/ipld/specs/pull/66
