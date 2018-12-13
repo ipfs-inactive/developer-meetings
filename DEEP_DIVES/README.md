@@ -1,8 +1,8 @@
-# Deep Technical Design Sessions
+# 🐋 Deep Technical Design Sessions
 
-- **Duration:** 2 hours (take breaks as needed)
-- **Who Should Attend:** People who want to engage in deep technical design work  
-- **Who has to be there in order for it to work:** Session leaders who have the necessary design knowledge for the chosen topic
+## Videos
+
+The recordings will be uploaded Soon™
 
 ## Overview
 
@@ -10,7 +10,13 @@
 - **Activity:** In a group of max 4 people, dive deep on a complex technical design topic.
 - **Outcome:** The output of each of these session would be a RFC like document (can be very raw) that describes the proposed solution (even if with known shortcomings), or it could be a map of all the important concepts, obstacles, and related topics you covered in the session.
 
-## Details
+## Format
+
+- **Duration:** 2 hours (take breaks as needed)
+- **Who Should Attend:** People who want to engage in deep technical design work
+- **Who has to be there in order for it to work:** Session leaders who have the necessary design knowledge for the chosen topic
+
+## Motivation
 
 One of the things that we did a lot in the first couple of years of IPFS was to really dive deep and paint the bike shed in order to come up with things such as IPLD, PubSub and other advancements to the original IPFS protocol. These design sessions were intense and they were not about explaining how things work, they were focused on finding the solution with the knowledge and resources we had available.
 
@@ -18,7 +24,7 @@ These deep technical design sessions will attempt to revive that and allow other
 
 You can learn more about the design of this session format on its [original proposal and discussion of the format ipfs/conf#43](https://github.com/ipfs/conf/issues/43).
 
-# Proposed Deep Dive Sessions
+## Proposed Deep Dive Sessions
 
 If you want to propose a deep dive session, add it here (via a Pull Request). Optionally use the [template](../_template.md) to provide a fuller description of the session.
 
@@ -36,11 +42,11 @@ If you want to propose a deep dive session, add it here (via a Pull Request). Op
 | base32                  | @kevina       | [full description](base32.md)
 | DApps SDK               | @waynewyong   | [full description](Dapp-SDK-for-IPFS.md)
 | Identity for DApps	| @diasdavid	| 	https://github.com/ipfs/dynamic-data-and-capabilities/issues/7
-| Live Streaming Capabilities through IPFS to X thousand | @diasdavid | 	
-| Sharing IPLD Graphs (Implementation + API) | @diasdavid		
+| Live Streaming Capabilities through IPFS to X thousand | @diasdavid |
+| Sharing IPLD Graphs (Implementation + API) | @diasdavid
 | Integration Testing for the IPFS + libp2p | @diasdavid | https://github.com/ipfs/notes/issues/294
 | Sustainable Modules and Open Source Software | @diasdavid | https://github.com/ipfs/notes/issues/273
-| Sound Cryptographic ACLs (aka Capabilities) | @diasdavid | 
+| Sound Cryptographic ACLs (aka Capabilities) | @diasdavid |
 | Upgrading the HTTP-API to a RPC API (stop the nonsense) | @diasdavid | We desperately need a new remote API https://github.com/ipfs/http-api-spec/issues/116
 | CRDTs ACL and Authorship | @diasdavid | https://github.com/ipfs/dynamic-data-and-capabilities/issues/25
 | Design Service Worker Lib for Web Development                  | @lidel       | [full description](service-worker.md)

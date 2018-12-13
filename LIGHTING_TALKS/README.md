@@ -1,14 +1,8 @@
-[IPFS Dev Meeting](../../README.md) | [Sessions](../README.md) | Lightning Talks
+## ⚡️ Lighting Talks
 
-## Sessions: Project Update Lightning Talks
+## Videos
 
-Short project updates in rapid succession. No more than 30-45 minutes at a time (6-9 updates). This can/should be done more than once at the meetings to give at least 12-18 projects exposure.
-
-**Proposed by** @flyingzumwalt
-**Led by** @flyingzumwalt
-**Duration** 30-45 minutes
-**Who Should Attend:** Everyone
-**Who has to be there in order for it to work:** People who want to give a project update.
+The recordings will be uploaded Soon™
 
 ## Overview
 
@@ -16,13 +10,21 @@ Short project updates in rapid succession. No more than 30-45 minutes at a time 
 - **Activity**: In a lecture format, allow a group of people to give pre-prepared 5-minute updates on their projects.
 - **Outcome**: Recordings of all the project updates and shared context for conference attendees to operate from.
 
-## Details
+## Format
+
+Short project updates in rapid succession. No more than 30-45 minutes at a time (6-9 updates). This can/should be done more than once at the meetings to give at least 12-18 projects exposure.
+
+**Duration** 30-45 minutes
+**Who Should Attend:** Everyone
+**Who has to be there in order for it to work:** People who want to give a project update.
+
+## Schedule
+
+#### Day 1, Monday
 
 This is a running list. Suggest more via PRs, or contact @flyingzumwalt to add something
 
 Here's a sketch of updates we could have on Day 1 and Day 2. People might want to do another session of updates during the unconference on Day 3.
-
-### Day 1, Monday
 
 | Topic/Project           | Presenter                   |
 |:-----------------------:|:---------------------------:|
@@ -35,7 +37,7 @@ Here's a sketch of updates we could have on Day 1 and Day 2. People might want t
 | ipfs-cluster            | @hsanjuan                   |
 | infrastructure          | @lgierth or @eefahy         |
 
-### Day 2, Tuesday
+#### Day 2, Tuesday
 
 | Topic/Project           | Presenter                   |
 |:-----------------------:|:---------------------------:|
@@ -49,7 +51,7 @@ Here's a sketch of updates we could have on Day 1 and Day 2. People might want t
 | Data Stewardship & Data Together | @flyingzumwalt and @meiqimichelle |
 | pserver (demo)          | @waynewyong                 |
 
-### Other Updates to consider adding (aka propose your lighting talk here):
+#### Other Updates to consider adding (aka propose your lighting talk here):
 
 If you want to propose a lightning talk, add it to this list via a Pull Request.
 
