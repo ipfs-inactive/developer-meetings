@@ -14,6 +14,7 @@ Meanwhile, we have revamped this repo so that you can find all the output from t
 - Keynotes
   - soon™
 - [Lighting Talks](LIGHTING_TALKS)
+- [Fast Demos](FAST_DEMOS)
 - [Poster Making](POSTER_MAKING)
 - [Deep Dives](DEEP_DIVES)
 - Other Sessions
@@ -36,7 +37,6 @@ Karl-Marx-Allee 36, 10178 Berlin
 
 Wednesday: Palladium
 James-Simon-Park, Stadtbahnbogen 157/158, 10178 Berlin
-
 
 ### Suggested Dinner Venues
 
