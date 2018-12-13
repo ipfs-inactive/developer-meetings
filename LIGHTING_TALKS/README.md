@@ -1,4 +1,4 @@
-## ⚡️ Lightning Talks
+## ⚡️ Lighting Talks
 
 ## Videos
 
