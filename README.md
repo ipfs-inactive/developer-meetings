@@ -53,7 +53,3 @@ Dircksenstraße 47, 10178 Berlin
 
 Block House - Steak House
 Karl-Liebknecht-Str. 7, 10178 Berlin
-
-## Related Event
-
-- **IPFS Conf** Lisbon 2019 - [pre-register for IPFS Conf in 2019](https://goo.gl/forms/0Pu6VZzG8pRAmrrv2)
