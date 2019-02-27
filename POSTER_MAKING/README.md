@@ -17,7 +17,9 @@ Have fun working in small groups to create posters and other documentation, then
 Purpose: Get people to learn some part of the code base in depth and through that process of learning, create materials that can be used by others to learn that part of the code base.
 
 **Duration** 75 minutes
+
 **Who Should Attend:** Anyone who wants to learn or share knowledge by making a poster in a small team
+
 **Who has to be there in order for it to work:** Anyone who wants to either share knowledge or do a bit of research and put findings in a poster.
 
 ## Details
@@ -35,7 +37,7 @@ Some of the things to do during this session together with the other people on y
 - **Compile all of this information** into something that's easy to consume (a poster)
 - **Plan how this information can be incorporated** into the existing documentation and repositories.
 - **Choose who will present your poster.**
-- _If you have time, submit PR your new info into the corresponding repository._
+- _If you have time, submit a PR with your new info into the corresponding repository._
 
 At the end of the day, each group will have 1 minute to present their poster. Make sure to choose in advance who will be presenting.
 
@@ -81,5 +83,4 @@ _We're aiming to have at least 15 poster topics for people to choose from._
 | Protocol and Stream Multiplexing | @diasdavid |
 | Circuit Relay | @diasdavid |
 | dnslink | @diasdavid |
-
-| xTP - External Transports | @diasdavid  |
+| xTP - External Transports | @diasdavid |
