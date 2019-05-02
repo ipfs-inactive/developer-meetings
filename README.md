@@ -4,6 +4,12 @@
 
 The Developer Meetings were a huge success! We are incredibly thankful for everyone's participation, energy, enthusiasm and for sharing their knowledge with the whole group! We can't wait for the 2019 edition!
 
+<h1 align="center">
+  <img src="dev-meetings-group-photo.gif" alt="Dev Meetings Group Photo"/>
+</h1>
+
+![](dev-meetings-group-photo.gif)
+
 Meanwhile, we have revamped this repo so that you can find all the output from the discussions we had, presentations delivered and more.
 
 - Keynote - soon™
