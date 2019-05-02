@@ -4,7 +4,7 @@
 
 The Developer Meetings were a huge success! We are incredibly thankful for everyone's participation, energy, enthusiasm and for sharing their knowledge with the whole group! We can't wait for the 2019 edition!
 
-<iframe src="https://giphy.com/embed/iCivRRnqS1SsadMjme" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ipfs-iCivRRnqS1SsadMjme">via GIPHY</a></p>
+![](https://media.giphy.com/media/iCivRRnqS1SsadMjme/giphy.gif)
 
 Meanwhile, we have revamped this repo so that you can find all the output from the discussions we had, presentations delivered and more.
 
